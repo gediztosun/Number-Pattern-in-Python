@@ -1,4 +1,4 @@
 # A-Number-Pattern-in-Python
 I test some unique number patterns in Python.
 
-<img src="images/pattern.png" width=100>
+<img src="images/pattern" width=100>
